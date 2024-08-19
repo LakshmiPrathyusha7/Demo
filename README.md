@@ -1,2 +1,2 @@
 # Demo
-This is DeveOps Lab
+This is DevOps Lab
